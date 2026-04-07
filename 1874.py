@@ -75,4 +75,3 @@ for _ in range(n):
 if possible==0:
     for i in answer :
         print(i)
-        
